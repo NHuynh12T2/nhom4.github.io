@@ -37,5 +37,8 @@
 <td>Cá chiên (danh pháp khoa học: Bagarius bagarius) là một loài cá da láng trong chi Bagarius, tìm thấy trong các con sông lớn ở Nam Á và Đông Nam Á, cụ thể trong lưu vực sông Hằng, sông Mê Kông, sông Chao Phraya; và có thông báo cho thấy nó có trong lưu vực các sông Salween, Maeklong và phần Thái Lan bán đảo</td>
 <td> khong co thong tin video ve loai nay</td>
 </tr>
+        <label>Bạn có muốn tham gia cứu trợ động vật hay không?</label>
+            <input type="radio" id="'cokhong" name="co" value="co">Có
+            <input type="radio" id="'cokhong" name="khong" value="khong">Không
 </body>
 </html>
