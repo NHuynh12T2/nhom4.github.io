@@ -11,7 +11,6 @@
 <tr>
     <td> Ten dong vat </td>
     <td>Thong tin</td>
-    <td>Hinh anh</td>
     <td> Mot so video </td>
 </tr>
 <tr>
