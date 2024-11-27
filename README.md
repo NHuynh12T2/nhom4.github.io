@@ -17,7 +17,6 @@
 <tr>
 <td> Ga loi lam duoi trang</td>
 <td> (danh pháp khoa học: Lophura hatinhensis) là một loài gà lôi được phát hiện vào năm 1964 và đặt tên khoa học chính thức vào năm 1975. Gà lôi lam đuôi trắng là động vật đặc hữu của miền Trung Việt Nam. Giống gà này sống tập trung xung quanh khu vực Khu bảo tồn thiên nhiên Kẻ Gỗ ở tỉnh Hà Tĩnh và Quảng Bình. Sinh cảnh ưa thích của chúng là các vùng rừng tre nứa, các vùng rừng thường xanh đất thấp (dưới 300m so với mực nước biển).</td>
-<td> ![Alt text](https://vi.wikipedia.org/wiki/G%C3%A0_l%C3%B4i_lam_%C4%91u%C3%B4i_tr%E1%BA%AFng)
 </td>
 <td> <iframe with="150" height="150" src="https://www.youtube.com/embed/F6a8OJz4Sm4?si=W05k7JxR8mFL-3hc"> </iframe></td>
 </tr>
