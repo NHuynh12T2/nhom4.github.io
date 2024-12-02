@@ -30,7 +30,7 @@
 <tr>
 <td>Cha va chan do</td>
 <td> Loài voọc này còn có nhiều tên gọi (địa phương) khác như Voọc ngũ sắc, Khỉ chú lính, Giáo hoàng, Dọc, Hoa, Giấu đầu hở đuôi. Đây là loài khỉ sinh sống, ăn và ngủ trên các cành cây trong rừng và hoạt động vào ban ngày. Chà vá chân nâu là loài khỉ ăn lá đặc hữu của vùng Đông Dương, chủ yếu phân bố ở Việt Nam, Lào và một phần nhỏ ở Đông Bắc Campuchia. Hiện nay chúng là một trong những động vật quý hiếm cần được bảo vệ.</td>
-<td> <img src="galoilam.jpg" alt="Ảnh gà lôi lam" width="200" height="200">
+<td> <img src="folder_sub/ga loi lam.jpg" alt="Gà lôi lam" width="200" height="200">
 <td> <iframe with="150" height="150" src="https://www.youtube.com/embed/0I3D-3Guw5A?si=3L63hJs3SkUBkdLG"> </iframe></td>
 <tr>
 <td>Sao la</td>
