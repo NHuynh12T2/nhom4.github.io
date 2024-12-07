@@ -44,5 +44,8 @@
 <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Preserved_specimens_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02402.JPG/768px-Preserved_specimens_-_Kunming_Natural_History_Museum_of_Zoology_-_DSC02402.JPG" alt=""width="200" height="200"></td>
 <td> khong co thong tin video ve loai nay</td>
 </tr>
+        <label>Bạn có muốn tham gia cứu trợ động vật hay không?</label>
+            <input type="radio" id="'cokhong" name="co" value="co">Có
+            <input type="radio" id="'cokhong" name="khong" value="khong">Không
 </body>
 </html>
